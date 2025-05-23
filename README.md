@@ -1,1 +1,2 @@
-# Portfolio
+# Portfolio 
+This is my personal frontend portfolio website built using HTML5, CSS3, and JavaScript. It showcases my skills, projects, and background as a self-taught web developer. The website is responsive, clean, and user-friendly. It includes sections like About Me, Skills, Projects, and Contact. I created this portfolio to highlight my work and seek internship or job opportunities in frontend development.
